@@ -1,7 +1,5 @@
 import {FaQuoteLeft} from 'react-icons/fa';
 import React, {useState} from 'react'
-import {FaTwitterSquare} from 'react-icons/fa';
-import {ImTumblr2} from 'react-icons/im';
 import "./../Styles/index.css"
 
 const quotes = [ 

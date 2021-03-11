@@ -98,8 +98,8 @@ const RandomQuote = ()=> {
             </div>
             <div className="row align-top">
                 <div className="col-md-4 grid">
-                        <a href = {tweHref} target="_blank"><i style = {{color:styledColors()}} className="fab fa-twitter-square fa-2x me-2"></i></a>
-                        <a href={tumHref} target="_blank"><i className="fab fa-tumblr-square fa-2x" style = {{color:styledColors()}}></i></a>  
+                        <a href = {tweHref} target="_blank" rel="noreferrer"><i style = {{color:styledColors()}} className="fab fa-twitter-square fa-2x me-2"></i></a>
+                        <a href={tumHref} target="_blank" rel="noreferrer"><i className="fab fa-tumblr-square fa-2x" style = {{color:styledColors()}}></i></a>  
                 </div>
                 <div className="col-md-8 text-end">
                     <button style = {{backgroundColor:styledColors(), color:"white", fontSize:"0.875em"}} className="btn btn-sm" onClick={NewClick}>New quote</button>

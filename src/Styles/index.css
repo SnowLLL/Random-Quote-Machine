@@ -1,0 +1,16 @@
+* {
+  font-family: "Raleway", sans-serif;
+}
+
+.quoteCard {
+  min-height: fit-content;
+  min-width: 500px;
+  width: 40vw;
+}
+
+p {
+  color: white;
+  text-align: center;
+  padding-top: 0.5rem;
+  font-size: small;
+}

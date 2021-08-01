@@ -26,8 +26,8 @@
   - To randomly produce a quote
   - To Keep the same text color as the background color
 ```
-    - ![GitHub Logo](/images/0.png)
-    - ![GitHub Logo](/images/1.png)
-    - ![GitHub Logo](/images/2.png) 
-    - ![GitHub Logo](/images/3.png)
+   - ![GitHub Logo](/images/0.png)
+   - ![GitHub Logo](/images/1.png)
+   - ![GitHub Logo](/images/2.png) 
+   - ![GitHub Logo](/images/3.png)
  

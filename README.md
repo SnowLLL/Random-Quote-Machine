@@ -1,5 +1,6 @@
 
-# [Random Quote Machine](https://my-random-quote.netlify.app):memo:
+# [Random Quote Machine](https://my-random-quote.netlify.app)
+:memo:
 ```diff
 + TECH STACK
 ```
